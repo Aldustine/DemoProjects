@@ -13,5 +13,7 @@ namespace DemoProject.Data.Entities
         public DateTimeOffset Date { get; set; }
 
         public bool Complete { get; set; }
+
+        public long OrderToProductId { get; set; }
     }
 }
