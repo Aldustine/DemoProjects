@@ -2,10 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DemoProject.Data.Entities
+namespace DemoProject.Common.Models
 {
-    public class Product : SimpleKeyEntity
+    public class ProductModel
     {
+        public long Id { get; set; }
+
         public string Name { get; set; }
 
         public double Price { get; set; }

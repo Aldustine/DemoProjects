@@ -5,8 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Convertors\" />
-    <Folder Include="Managers\" />
+    <ProjectReference Include="..\DemoProject.Common.Models\DemoProject.Common.Models.csproj" />
+    <ProjectReference Include="..\DemoProject.Data.Entities\DemoProject.Data.Entities.csproj" />
+    <ProjectReference Include="..\DemoProject.Db\DemoProject.Data.Db.csproj" />
   </ItemGroup>
 
 </Project>

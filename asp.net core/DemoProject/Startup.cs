@@ -10,6 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using DemoProject.Data.Db;
+using DemoProject.Data.Managers;
 
 namespace DemoProject.Api
 {
@@ -28,7 +29,7 @@ namespace DemoProject.Api
 
             services.AddDbContext<ApplicationContext>(options => options.UseSqlServer(Configuration.GetConnectionString("MainConnection")));
 
-            //services.AddTransient<>();
+            services.AddTransient<ProductManager>();
 
             services.AddMvc();
 

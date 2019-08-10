@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoProject.Api", "DemoProject\DemoProject.Api.csproj", "{3A340B09-F8A3-4562-97C0-ACC9B0BB4746}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoProject.Api", "DemoProject\DemoProject.Api.csproj", "{3A340B09-F8A3-4562-97C0-ACC9B0BB4746}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{C764909F-E882-4B0E-B99E-165471E77E93}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{3D5E8698-5FD7-4D6D-81E0-BF9E80B79B4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoProject.Data", "DemoProject.Data\DemoProject.Data.csproj", "{8E152418-6F02-43D0-8355-D4E286B86325}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoProject.Data", "DemoProject.Data\DemoProject.Data.csproj", "{8E152418-6F02-43D0-8355-D4E286B86325}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoProject.Data.Db", "DemoProject.Db\DemoProject.Data.Db.csproj", "{7339146C-9580-474F-BC3F-BA3D6F97BB2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoProject.Data.Db", "DemoProject.Db\DemoProject.Data.Db.csproj", "{7339146C-9580-474F-BC3F-BA3D6F97BB2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoProject.Data.Entities", "DemoProject.Data.Entities\DemoProject.Data.Entities.csproj", "{7B3E0336-5A5E-43FA-9B03-0EAEC5FE37DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoProject.Data.Entities", "DemoProject.Data.Entities\DemoProject.Data.Entities.csproj", "{7B3E0336-5A5E-43FA-9B03-0EAEC5FE37DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{FD1BE7FA-F1D8-46BD-AEB0-31D633A8E7CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoProject.Common.Models", "DemoProject.Common.Models\DemoProject.Common.Models.csproj", "{E128FA95-677B-483C-8510-EFB3BC48955E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +41,10 @@ Global
 		{7B3E0336-5A5E-43FA-9B03-0EAEC5FE37DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B3E0336-5A5E-43FA-9B03-0EAEC5FE37DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B3E0336-5A5E-43FA-9B03-0EAEC5FE37DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E128FA95-677B-483C-8510-EFB3BC48955E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E128FA95-677B-483C-8510-EFB3BC48955E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E128FA95-677B-483C-8510-EFB3BC48955E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E128FA95-677B-483C-8510-EFB3BC48955E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +54,7 @@ Global
 		{8E152418-6F02-43D0-8355-D4E286B86325} = {3D5E8698-5FD7-4D6D-81E0-BF9E80B79B4B}
 		{7339146C-9580-474F-BC3F-BA3D6F97BB2A} = {3D5E8698-5FD7-4D6D-81E0-BF9E80B79B4B}
 		{7B3E0336-5A5E-43FA-9B03-0EAEC5FE37DD} = {3D5E8698-5FD7-4D6D-81E0-BF9E80B79B4B}
+		{E128FA95-677B-483C-8510-EFB3BC48955E} = {FD1BE7FA-F1D8-46BD-AEB0-31D633A8E7CD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F2455A4B-D88E-4C64-8A1A-0083575F0318}
