@@ -1,0 +1,68 @@
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Екзон\Екзон\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Екзон\Екзон\obj\Debug\Екзон.csproj.GenerateResource.Cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Екзон\Екзон\bin\Debug\Екзон.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Екзон\Екзон\bin\Debug\Екзон.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Екзон\Екзон\obj\Debug\Екзон.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Екзон\Екзон\obj\Debug\Екзон.pdb
+E:\наукова\Екзон\Екзон\obj\Debug\Екзон.exe
+E:\наукова\Екзон\Екзон\obj\Debug\Екзон.pdb
+E:\наукова\Екзон\Екзон\bin\Debug\Екзон.exe
+E:\наукова\Екзон\Екзон\bin\Debug\Екзон.pdb
+E:\наукова\Екзон\Екзон\obj\Debug\ResolveAssemblyReference.cache
+E:\наукова\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+E:\наукова\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\наукова\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\наукова\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\наукова\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\наукова\Екзон\Екзон\obj\Debug\Екзон.csproj.GenerateResource.Cache
+C:\Documents and Settings\htvfhr\Рабочий стол\Екзон\Екзон\obj\Debug\Екзон.exe
+C:\Documents and Settings\htvfhr\Рабочий стол\Екзон\Екзон\obj\Debug\Екзон.pdb
+C:\Documents and Settings\htvfhr\Рабочий стол\Екзон\Екзон\bin\Debug\Екзон.exe
+C:\Documents and Settings\htvfhr\Рабочий стол\Екзон\Екзон\bin\Debug\Екзон.pdb
+C:\Documents and Settings\htvfhr\Рабочий стол\Екзон\Екзон\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\htvfhr\Рабочий стол\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+C:\Documents and Settings\htvfhr\Рабочий стол\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\htvfhr\Рабочий стол\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Documents and Settings\htvfhr\Рабочий стол\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Documents and Settings\htvfhr\Рабочий стол\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\htvfhr\Рабочий стол\Екзон\Екзон\obj\Debug\Екзон.csproj.GenerateResource.Cache
+E:\Екзон\Екзон\obj\Debug\Екзон.exe
+E:\Екзон\Екзон\obj\Debug\Екзон.pdb
+E:\Екзон\Екзон\bin\Debug\Екзон.exe
+E:\Екзон\Екзон\bin\Debug\Екзон.pdb
+E:\Екзон\Екзон\obj\Debug\ResolveAssemblyReference.cache
+E:\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+E:\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Екзон\Екзон\obj\Debug\Екзон.csproj.GenerateResource.Cache
+D:\1\nayk\2010\Левицький І\наукова\Екзон\Екзон\obj\Debug\Екзон.exe
+D:\1\nayk\2010\Левицький І\наукова\Екзон\Екзон\obj\Debug\Екзон.pdb
+E:\Maks_pdr\МАН\2015\Екзон\Екзон\obj\Debug\Екзон.exe
+E:\Maks_pdr\МАН\2015\Екзон\Екзон\obj\Debug\Екзон.pdb
+E:\Maks_pdr\МАН\2015\Екзон\Екзон\bin\Debug\Екзон.exe
+E:\Maks_pdr\МАН\2015\Екзон\Екзон\bin\Debug\Екзон.pdb
+E:\Maks_pdr\МАН\2015\Екзон\Екзон\obj\Debug\Екзон.csprojResolveAssemblyReference.cache
+E:\Maks_pdr\МАН\2015\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+E:\Maks_pdr\МАН\2015\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Maks_pdr\МАН\2015\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\Maks_pdr\МАН\2015\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\Maks_pdr\МАН\2015\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Maks_pdr\МАН\2015\Екзон\Екзон\obj\Debug\Екзон.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\МАН-20181210T065408Z-001\МАН\2015\Екзон\Екзон\bin\Debug\Екзон.exe
+C:\Users\User\Downloads\МАН-20181210T065408Z-001\МАН\2015\Екзон\Екзон\bin\Debug\Екзон.pdb
+C:\Users\User\Downloads\МАН-20181210T065408Z-001\МАН\2015\Екзон\Екзон\obj\Debug\Екзон.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\МАН-20181210T065408Z-001\МАН\2015\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+C:\Users\User\Downloads\МАН-20181210T065408Z-001\МАН\2015\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Downloads\МАН-20181210T065408Z-001\МАН\2015\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\User\Downloads\МАН-20181210T065408Z-001\МАН\2015\Екзон\Екзон\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Downloads\МАН-20181210T065408Z-001\МАН\2015\Екзон\Екзон\obj\Debug\Екзон.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\МАН-20181210T065408Z-001\МАН\2015\Екзон\Екзон\obj\Debug\Екзон.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\МАН-20181210T065408Z-001\МАН\2015\Екзон\Екзон\obj\Debug\Екзон.exe
+C:\Users\User\Downloads\МАН-20181210T065408Z-001\МАН\2015\Екзон\Екзон\obj\Debug\Екзон.pdb
