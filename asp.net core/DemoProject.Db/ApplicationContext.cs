@@ -11,6 +11,8 @@ namespace DemoProject.Data.Db
 
         public DbSet<User> Users { get; set; }
 
+        public DbSet<SomeStaff> SomeStaffs { get; set; }
+
         public ApplicationContext(DbContextOptions<ApplicationContext> options) : base (options)
         {
             Database.Migrate();
